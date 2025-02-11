@@ -6,6 +6,6 @@
 
 ---
 
-### 1. Apache and Passenger Combination
+### 1. Apache and Passenger combination
 
-### 2. NGINX and Unicorn Combination 
+### 2. NGINX and Unicorn combination 
