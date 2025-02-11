@@ -4,4 +4,4 @@
 
 ---
 
-![That's cool](image.jpeg)
+<img src="assets/image.jpeg" alt="that's cool" width="200"/>
